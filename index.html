@@ -86,7 +86,7 @@ p{margin:0}
 @keyframes drift{from{transform:translate3d(0,0,0) scale(1)}to{transform:translate3d(-2.5%,-1.5%,0) scale(1.04)}}
 .monument{display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;min-height:calc(100svh - 72px - 112px);padding-top:48px;padding-bottom:40px}
 .monument>*{animation:rise .9s cubic-bezier(.2,.7,.2,1) both}
-.monument>:nth-child(2){animation-delay:.15s}.monument>:nth-child(3){animation-delay:.28s}.monument>:nth-child(4){animation-delay:.4s}.monument>:nth-child(5){animation-delay:.9s}
+.monument>:nth-child(2){animation-delay:.15s}.monument>:nth-child(3){animation-delay:.28s}.monument>:nth-child(4){animation-delay:.34s}.monument>:nth-child(5){animation-delay:.45s}.monument>:nth-child(6){animation-delay:.9s}
 @keyframes rise{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
 .scroll-cue{position:relative;display:block;margin-top:48px;width:26px;height:40px;border:1.5px solid #5A606A;border-radius:14px;opacity:.8}
 .scroll-cue::before{content:"";position:absolute;left:50%;top:8px;width:3px;height:8px;margin-left:-1.5px;border-radius:2px;background:var(--brass);animation:cue 1.8s ease-in-out infinite}
@@ -97,6 +97,7 @@ p{margin:0}
 .mark{width:min(100%,640px);height:auto;filter:drop-shadow(0 10px 30px rgba(0,0,0,.45))}
 .motto-line{display:flex;align-items:center;gap:18px;margin-top:22px;font-family:var(--f-head);font-weight:600;font-size:clamp(16px,2.2vw,22px);letter-spacing:.42em;text-transform:uppercase;color:var(--brass)}
 .motto-line span{display:block;width:clamp(40px,8vw,110px);border-top:1.5px solid var(--brass);opacity:.8}
+.plain{margin-top:18px;max-width:46ch;font-size:clamp(17px,1.6vw,20px);line-height:1.5;color:var(--on-dark)}
 .lines{margin-top:12px;font-family:var(--f-mono);font-size:13px;letter-spacing:.14em;text-transform:uppercase;color:var(--on-dark-muted)}
 .ctas{display:flex;flex-wrap:wrap;gap:12px}
 .monument .ctas{justify-content:center;margin-top:30px}
@@ -342,6 +343,7 @@ footer .motto{font-family:var(--f-stencil);color:var(--brass);font-size:17px;let
   <div class="wrap monument">
     <img class="mark" src="logo-white.png" alt="Cross Dagger Solutions" width="1200" height="561">
     <p class="motto-line"><span></span>Prepare. Adapt. Overcome.<span></span></p>
+    <p class="plain">We help organizations plan for emergencies and security threats, and train their people to respond.</p>
     <p class="lines">Resilience &amp; Risk &nbsp;·&nbsp; Training &amp; Capability &nbsp;·&nbsp; Program Advisory</p>
     <div class="ctas">
       <a class="btn btn-brass" href="https://calendar.app.google/bL9apRJ2ZCdymTN79" target="_blank" rel="noopener">Book a 30-minute discovery call</a>
