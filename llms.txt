@@ -1,0 +1,21 @@
+# Cross Dagger Solutions
+
+> Veteran-owned consulting firm based in Colorado Springs, Colorado, serving clients nationwide. Business continuity planning, business impact analysis, risk assessment, tabletop exercises, training program design and fractional program advisory. Founder-led by Marcus Lolofie, a former Green Beret (15 years U.S. Army Special Forces, 21+ years service) holding the CBCP and CRMP (DRI International) and PMP (PMI).
+
+## Services
+
+- [Business continuity planning and business impact analysis](https://crossdaggersolutions.com/business-continuity-planning.html): critical services, tolerable downtime, dependencies and a continuity plan with named owners.
+- [Risk assessment](https://crossdaggersolutions.com/risk-assessment.html): physical, personnel and operational risk, a scored risk register and a prioritized mitigation plan.
+- [Tabletop exercise and after-action report](https://crossdaggersolutions.com/tabletop-exercise.html): a facilitated scenario with your leadership team and a written report of fixes with owners.
+- [Training program design and instructor development](https://crossdaggersolutions.com/training-program-design.html): ADDIE-based curriculum, instructor development, assessment and selection design.
+- [Fractional program and operations advisory](https://crossdaggersolutions.com/program-advisory.html): part-time program leadership, planning and decision support, exercise design and control.
+
+## About
+
+- [Our story](https://crossdaggersolutions.com/about.html): the founder, American Samoa, Special Forces and the meaning of the name.
+- [Home](https://crossdaggersolutions.com/): overview, approach, credentials and contact.
+
+## Contact
+
+- Book a 30-minute discovery call: https://calendar.app.google/bL9apRJ2ZCdymTN79
+- Email: marcuslolofie@crossdaggersolutions.com
